@@ -1,2 +1,3 @@
 # test
-これはテストリポジトリです。
+
+Hello,GitHub!!
